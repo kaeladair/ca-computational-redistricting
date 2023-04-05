@@ -1,7 +1,7 @@
 # ca-computational-redistricting
 
 ## Results
-![Image](cd_10_10000.png)
+![Image](cd_10_10000.png) ![Image](cd_21_10000.png)
 
 ## Data Used
 * Alarm_Redist (2023). Alarm_Redist 2020 Congressional Districts.
