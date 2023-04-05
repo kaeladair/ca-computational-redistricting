@@ -3,7 +3,7 @@
 ## Results
 ![Image](cd_10_10000.png) ![Image](cd_21_10000.png)
 
-## Data Used
+## Data Sources
 * Alarm_Redist (2023). Alarm_Redist 2020 Congressional Districts.
 Retrieved from https://raw.githubusercontent.com/alarm-redist/census-2020/main/census-vest-2020/ca_2020_block.csv
   * "To produce election data using 2020 precinct boundaries, election results were projected down to the 2010 block level using voting-age population as weights. Results for 2020 blocks were then estimated using 2010 blocks and the land-use-based crosswalk files from VEST. Finally, 2020 blocks were aggregated to 2020 Census VTDs using the Census' 2020 block assignment files."
