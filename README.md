@@ -16,11 +16,11 @@ To set up the project, follow these steps:
 1. Clone the repository.
 2. Create a Conda environment using the provided `conda-environment.yml` file:
 
-conda env create -f conda-environment.yml
+```conda env create -f conda-environment.yml```
 
 3. Activate the environment:
 
-conda activate gerrychain-analysis
+```conda activate gerrychain-analysis```
 
 4. Run the Jupyter Notebooks in order to process the data and visualize the results.
 
