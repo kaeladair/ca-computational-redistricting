@@ -1,7 +1,21 @@
-# ca-computational-redistricting
+# California Redistricting Analysis
 
-## Results
-![Image](cd_10_10000.png) ![Image](cd_21_10000.png)
+This project aims to analyze and compare different redistricting plans for the state of California using the GerryChain algorithm. It consists of several Jupyter Notebooks and Python scripts to process and visualize the data.
+
+## Table of Contents
+
+1. [Getting Started](#getting-started)
+2. [Project Structure](#project-structure)
+3. [Data Sources](#data-sources)
+4. [Acknowledgments](#acknowledgments)
+
+## Getting Started
+
+To set up the project, follow these steps:
+
+1. Clone the repository.
+2. Create a Conda environment using the provided `conda-environment.yml` file:
+
 
 ## Data Sources
 * Alarm_Redist (2023). Alarm_Redist 2020 Congressional Districts.
