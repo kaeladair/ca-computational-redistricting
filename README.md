@@ -35,14 +35,6 @@ The project is structured as follows:
 - `README.md` - This file.
 
 ## Data Sources
-
-The data used in this project comes from the following sources:
-
-1. [Geodataframe](https://gis.data.ca.gov/datasets/7e160566c15242e799f3d2c3f7fe0c12_0/data?geometry=-126.511%2C32.447%2C-113.413%2C42.009) - Geographic data for California,
-
-
-
-## Data Sources
 * Alarm_Redist (2023). Alarm_Redist 2020 Congressional Districts.
 Retrieved from https://raw.githubusercontent.com/alarm-redist/census-2020/main/census-vest-2020/ca_2020_block.csv
   * "To produce election data using 2020 precinct boundaries, election results were projected down to the 2010 block level using voting-age population as weights. Results for 2020 blocks were then estimated using 2010 blocks and the land-use-based crosswalk files from VEST. Finally, 2020 blocks were aggregated to 2020 Census VTDs using the Census' 2020 block assignment files."
