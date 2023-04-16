@@ -7,7 +7,6 @@ This project aims to analyze and compare different redistricting plans for the s
 1. [Getting Started](#getting-started)
 2. [Project Structure](#project-structure)
 3. [Data Sources](#data-sources)
-4. [Acknowledgments](#acknowledgments)
 
 ## Getting Started
 
