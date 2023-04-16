@@ -28,6 +28,7 @@ To set up the project, follow these steps:
 The project is structured as follows:
 
 - `notebooks/` - Contains Jupyter Notebooks for various stages of the project:
+- `data-preparation.ipynb` -- Fetches required data from the internet and cleans it.
 - `connect-islands.ipynb` - Processes the raw data and connects islands in the map.
 - `run-gerrychain.ipynb` - Runs the GerryChain algorithm on the processed data and creates visualizations.
 - `conda-environment.yml` - Conda environment file with the required dependencies for the project.
