@@ -19,7 +19,7 @@ To set up the project, follow these steps:
 
 3. Activate the environment:
 
-```conda activate gerrychain-analysis```
+```conda activate gerrychain```
 
 4. Run the Jupyter Notebooks in order to process the data and visualize the results.
 
