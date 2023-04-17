@@ -1,4 +1,4 @@
-# California Redistricting Analysis
+# Analysis of California's 2021 Congressional Districts Using Gerrychain
 
 This project aims to analyze and compare different redistricting plans for the state of California using the GerryChain algorithm. It consists of several Jupyter Notebooks and Python scripts to process and visualize the data.
 
