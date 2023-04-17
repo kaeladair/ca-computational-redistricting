@@ -13,6 +13,8 @@ This project aims to analyze and compare different redistricting plans for the s
 
 
 
+
+
 ## Getting Started
 
 To set up the project, follow these steps:
