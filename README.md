@@ -4,12 +4,12 @@ This project aims to analyze and compare different redistricting plans for the s
 
 ## Table of Contents
 
-1. [Results](#results)
+1. [Results & Visualizations](#results)
 2. [Getting Started](#getting-started)
 3. [Project Structure](#project-structure)
 4. [Data Sources](#data-sources)
 
-## Results
+## Results & Visualizations
 
 
 
