@@ -11,7 +11,7 @@ This project aims to analyze and compare different redistricting plans for the s
 
 ## Results & Visualizations
 
-![Research Poster]([http://url/to/img.png](https://github.com/kaeladair/ca-computational-redistricting/blob/main/Screenshot%202023-06-25%20at%2011.55.09%20PM.png))
+![Research Poster](https://github.com/kaeladair/ca-computational-redistricting/blob/main/Screenshot%202023-06-25%20at%2011.55.09%20PM.png)
 
 
 
